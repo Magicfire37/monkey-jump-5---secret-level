@@ -1,5 +1,5 @@
 {
-    "name": "monkey jump 5 - secret level",
+    "name": "monkey jump 5 - secret level - Copy",
     "description": "",
     "dependencies": {
         "device": "*",
@@ -15,7 +15,8 @@
         "tilemap.g.ts",
         "images.g.jres",
         "images.g.ts",
-        "tutorial.custom.ts"
+        "tutorial.custom.ts",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
@@ -31,5 +32,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
