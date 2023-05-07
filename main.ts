@@ -712,4 +712,4 @@ mySprite = sprites.create(assets.image`stand`, SpriteKind.Player)
 controller.moveSprite(mySprite, 100, 0)
 mySprite.ay = 500
 scene.cameraFollowSprite(mySprite)
-mySprite.sayText("Hi, My name is Moco FRap. use arrow keys to move, space to place a block, and down arrow to dynamite.", 10000, true)
+mySprite.sayText("Hi, My name is Jeff. use arrow keys to move, space to place a block, and down arrow to dynamite.", 10000, true)
